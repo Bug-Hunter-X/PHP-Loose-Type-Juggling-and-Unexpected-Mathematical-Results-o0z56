@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in PHP: unexpected behavior due to loose typing and type juggling during mathematical operations. The `bug.php` file shows the erroneous code, while `bugSolution.php` presents a corrected version using strict type checking and input validation.
